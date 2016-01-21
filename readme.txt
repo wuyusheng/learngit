@@ -7,3 +7,4 @@ new line
 
 create new branch quick and simple.
 new branch dev.
+ fix bug comment.
